@@ -16,6 +16,7 @@
     "value"
   ],
   "main": "index.js",
+  "module": "index.es.js",
   "scripts": {
     "test": "node index.test.js"
   },
